@@ -10,7 +10,7 @@ const NavBar = () => {
       <div className="flex bg-amazonclone text-white h-[60px]">
         {/* Left */}
         <div className="flex items-center m-4">
-          <Link to={"/"}>
+          <Link to={"/AmazoneClone"}>
             <img
               className="h-[35px] w-[100px] m-2"
               src={"../images/amazon.png"}
