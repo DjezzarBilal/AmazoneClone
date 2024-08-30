@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AmazoneClone/static/css/main.ba305294.css",
+    "main.js": "/AmazoneClone/static/js/main.bed86c2b.js",
+    "index.html": "/AmazoneClone/index.html",
+    "main.ba305294.css.map": "/AmazoneClone/static/css/main.ba305294.css.map",
+    "main.bed86c2b.js.map": "/AmazoneClone/static/js/main.bed86c2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba305294.css",
+    "static/js/main.bed86c2b.js"
+  ]
+}
