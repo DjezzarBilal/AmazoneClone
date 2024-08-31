@@ -1,13 +1,30 @@
 {
   "files": {
     "main.css": "/AmazoneClone/static/css/main.ba305294.css",
-    "main.js": "/AmazoneClone/static/js/main.b2831067.js",
+    "main.js": "/AmazoneClone/static/js/main.f47539ba.js",
+    "static/media/carousel_vid.mp4": "/AmazoneClone/static/media/carousel_vid.6a884e7316b3dce862bc.mp4",
+    "static/media/carousel_5.jpg": "/AmazoneClone/static/media/carousel_5.0e969dea821487c8f46d.jpg",
+    "static/media/carousel_4.jpg": "/AmazoneClone/static/media/carousel_4.87916c5d682a05a1d6ee.jpg",
+    "static/media/carousel_2.jpg": "/AmazoneClone/static/media/carousel_2.4cda1d7f430444efe363.jpg",
+    "static/media/carousel_1.jpg": "/AmazoneClone/static/media/carousel_1.1d4999d18234146a3387.jpg",
+    "static/media/banner_image.jpg": "/AmazoneClone/static/media/banner_image.d20bb67127f6eb012838.jpg",
+    "static/media/banner_image_2.jpg": "/AmazoneClone/static/media/banner_image_2.b463dabc156d4c2d0b3d.jpg",
+    "static/media/home_grid_3.jpg": "/AmazoneClone/static/media/home_grid_3.1969d999748d3612545f.jpg",
+    "static/media/home_grid_8.jpg": "/AmazoneClone/static/media/home_grid_8.e8f94423639c28348c57.jpg",
+    "static/media/home_grid_4.jpg": "/AmazoneClone/static/media/home_grid_4.f951aa00051dd031e09d.jpg",
+    "static/media/amazon.png": "/AmazoneClone/static/media/amazon.d83f2719e52389c93ede.png",
+    "static/media/product_1_small.jpg": "/AmazoneClone/static/media/product_1_small.43b4af4885a9a232e838.jpg",
+    "static/media/home_grid_2.jpg": "/AmazoneClone/static/media/home_grid_2.0ba88f52846ad23b13aa.jpg",
+    "static/media/home_grid_5.jpg": "/AmazoneClone/static/media/home_grid_5.09c6fa368e40730856b6.jpg",
+    "static/media/home_grid_1.jpg": "/AmazoneClone/static/media/home_grid_1.25a9bd6663cdf800da0d.jpg",
+    "static/media/product_6_small.jpg": "/AmazoneClone/static/media/product_6_small.fcaaa072261895a2ecd1.jpg",
+    "static/media/product_4_small.jpg": "/AmazoneClone/static/media/product_4_small.0976fdda111a3ac61104.jpg",
     "index.html": "/AmazoneClone/index.html",
     "main.ba305294.css.map": "/AmazoneClone/static/css/main.ba305294.css.map",
-    "main.b2831067.js.map": "/AmazoneClone/static/js/main.b2831067.js.map"
+    "main.f47539ba.js.map": "/AmazoneClone/static/js/main.f47539ba.js.map"
   },
   "entrypoints": [
     "static/css/main.ba305294.css",
-    "static/js/main.b2831067.js"
+    "static/js/main.f47539ba.js"
   ]
 }
