@@ -1,7 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper";
 import { Link } from "react-router-dom";
-
+import c_4 from '../images/category_4.jpg';
 import "swiper/css";
 import "swiper/css/navigation";
 
@@ -19,7 +19,7 @@ const CarouselProduct = () => {
           <SwiperSlide key={i}>
             <Link to={`/product/${i}`}>
               <img
-                src={`../images/product_${i}_small.jpg`}
+                src={require(`../images/product_${i}_small.jpg`)}
                 alt="Carousel product"
               />
             </Link>

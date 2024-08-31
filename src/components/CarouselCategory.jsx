@@ -1,6 +1,12 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper";
 import { useNavigate, createSearchParams } from "react-router-dom";
+import category_0 from '../images/category_0.jpg';
+import category_1 from '../images/category_1.jpg';
+import category_2 from '../images/category_2.jpg';
+import category_3 from '../images/category_3.jpg';
+import category_4 from '../images/category_4.jpg';
+import category_5 from '../images/category_5.jpg';
 
 import "swiper/css";
 import "swiper/css/navigation";
@@ -30,37 +36,37 @@ const CarouselCategory = () => {
           onClick={() => searchCategory("Deals")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_0.jpg"} alt="Deal category" />
+          <img src={category_0} alt="Deal category" />
         </SwiperSlide>
         <SwiperSlide
           onClick={() => searchCategory("Amazon")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_1.jpg"} alt="Amazon category" />
+          <img src={category_1} alt="Amazon category" />
         </SwiperSlide>
         <SwiperSlide
           onClick={() => searchCategory("Fashion")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_2.jpg"} alt="Fashion category" />
+          <img src={category_2} alt="Fashion category" />
         </SwiperSlide>
         <SwiperSlide
           onClick={() => searchCategory("Computers")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_3.jpg"} alt="Computers category" />
+          <img src={category_3} alt="Computers category" />
         </SwiperSlide>
         <SwiperSlide
           onClick={() => searchCategory("Home")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_4.jpg"} alt="Home category" />
+          <img src={category_4} alt="Home category" />
         </SwiperSlide>
         <SwiperSlide
           onClick={() => searchCategory("Mobiles")}
           className="cursor-pointer"
         >
-          <img src={"../images/category_5.jpg"} alt="Mobiles category" />
+          <img src={category_5} alt="Mobiles category" />
         </SwiperSlide>
       </Swiper>
     </div>

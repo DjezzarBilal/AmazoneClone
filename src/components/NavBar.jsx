@@ -2,6 +2,7 @@ import { ShoppingCartIcon } from "@heroicons/react/24/outline";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { Search } from "./";
+import Amazon from '../images/amazon.png';
 
 const NavBar = () => {
   const cart = useSelector((state) => state.cart.productsNumber);
@@ -13,7 +14,7 @@ const NavBar = () => {
           <Link to={"/AmazoneClone"}>
             <img
               className="h-[35px] w-[100px] m-2"
-              src={"../images/amazon.png"}
+              src={Amazon}
               alt="Amazon logo"
             />
           </Link>
